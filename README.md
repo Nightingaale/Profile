@@ -1,2 +1,2 @@
-# Technology
-* Java +17
+## Technology
+- **Java(17)**
